@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Массивы
+//Array | РњР°СЃСЃРёРІС‹
 
 int main() {
     int arr[4];
